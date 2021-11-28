@@ -1,0 +1,23 @@
+{
+  "background": "#FDF0ED",
+  "black": "#0C0C0C",
+  "blue": "#26BBD9",
+  "brightBlack": "#767676",
+  "brightBlue": "#3FC4DE",
+  "brightCyan": "#6BE4E6",
+  "brightGreen": "#3FDAA4",
+  "brightPurple": "#F075B5",
+  "brightRed": "#EC6A88",
+  "brightWhite": "#F2F2F2",
+  "brightYellow": "#FBC3A7",
+  "cursorColor": "#F9CEC3",
+  "cyan": "#59E1E3",
+  "foreground": "#06060C",
+  "green": "#29D398",
+  "name": "Horizon Dark",
+  "purple": "#EE64AC",
+  "red": "#E95678",
+  "selectionBackground": "#F9CEC3",
+  "white": "#CCCCCC",
+  "yellow": "#FAB795"
+}
